@@ -45,3 +45,4 @@
 
 # document
     https://facebook.github.io/react-native/docs/getting-started
+# project with X-code and Android studio so that I will pause coding this App
