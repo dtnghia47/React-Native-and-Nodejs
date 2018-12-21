@@ -1,6 +1,3 @@
-node_modules
-
-
 # Compiled Object files
 *.o
 *.obj
@@ -25,3 +22,8 @@ docs/
 
 # Code coverage
 *.lst
+
+# node
+node_modules/
+npm-debug.log
+yarn-error.log
