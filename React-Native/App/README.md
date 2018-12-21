@@ -4,7 +4,7 @@
 
 # Start time: 10/11/2018
 # Readme for react native in here
-
+# i know redux so that in this project i will implement mobx
 # All step build app (beginer and more :D)
     + install Xcode
     + install homebrew
@@ -45,4 +45,3 @@
 
 # document
     https://facebook.github.io/react-native/docs/getting-started
-# project with X-code and Android studio so that I will pause coding this App
